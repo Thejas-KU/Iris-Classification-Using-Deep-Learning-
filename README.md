@@ -39,6 +39,7 @@ Clone this repository
 bash
 Copy code
 git clone https://github.com/yourusername/Deep-Learning-Iris-Classification.git
+
 Open the notebook:
 
 bash
@@ -47,22 +48,24 @@ jupyter notebook Deep_Learning_Iris_Classification.ipynb
 Run all cells to train and test the model.
 
 🧠 Model Architecture
-Input layer: 4 neurons (features)
 
-Hidden layers: Dense layers with ReLU activation
+-->Input layer: 4 neurons (features)
 
-Output layer: 3 neurons with Softmax activation
+-->Hidden layers: Dense layers with ReLU activation
 
-Optimizer: Adam
+-->Output layer: 3 neurons with Softmax activation
 
-Loss: Categorical Crossentropy
+-->Optimizer: Adam
+
+-->Loss: Categorical Crossentropy
 
 📈 Results
-Model achieves high accuracy (>95%) on test data
 
-Confusion matrix shows correct classification for most samples
+1.Model achieves high accuracy (>95%) on test data
 
-Visualization of training and validation accuracy/loss provided
+2.Confusion matrix shows correct classification for most samples
+
+3.Visualization of training and validation accuracy/loss provided
 
 📌 Author
 
