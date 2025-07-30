@@ -65,5 +65,7 @@ Confusion matrix shows correct classification for most samples
 Visualization of training and validation accuracy/loss provided
 
 📌 Author
+
 Thejas K U
+
 Feel free to fork, use, and contribute! 🚀
